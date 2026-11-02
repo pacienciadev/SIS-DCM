@@ -1,0 +1,10 @@
+# Ambientes virtuais
+venv/
+venv_tf/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Dataset local (baixado automaticamente do Kaggle)
+data.csv
